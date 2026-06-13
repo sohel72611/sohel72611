@@ -45,27 +45,26 @@ I am a **Computer Science Engineering student (Class of 2027)** specializing in 
 
 ### 🚀 Featured Projects
 
-#### 🎓 [Campus Connect Hub](https://github.com/sohel72611/campus-connect-hub)
+#### 🎓 [Campus Connect Hub](https://campus-connect-hub-main.vercel.app)
 A premium, role-based campus recruitment portal and academic collaboration platform.
 *   **Role-Based Dashboards:** Distinct dashboards and workspaces for Students, Recruiters, and Admins.
 *   **Technical Assessment Lab:** Integrated online coding assessment suite featuring a customized **Monaco Editor** interface supporting simulated test case executions.
 *   **Smart Resume Maker:** Client-side resume creation tool with custom layout generation and instant PDF exports.
 *   **ATS & Analytics:** Real-time applicant tracking pipeline and interactive recruitment funnel visualizations using Recharts.
-   <a href="https://campus-connect-hub-main.vercel.app">
+   
 
-#### 📰 [News 24/7](https://github.com/sohel72611/News-24-7)
+#### 📰 [News 24/7](href="https://daily-nuggets.vercel.app)
 A premium real-time news hub and AI-powered daily digest aggregator.
 *   **AI Briefings:** Automated briefings utilizing the Google Gemini Flash API with custom prompts and a localized NLP aggregator fallback.
 *   **Interactive UI:** Real-time global trending news ticker, interactive bookmarking, and local search history.
 *   **Vercel Optimized:** Serverless Node.js backend designed for Vercel deployment with dynamic file-based caching.
-  <a href="https://daily-nuggets.vercel.app">
+ 
 
-#### 🔍 [OSINT Investigator](https://github.com/sohel72611/Investigator)
+#### 🔍 [OSINT Investigator](https://investigator-sherlok.vercel.app)
 An advanced intelligence dashboard and automated pivot engine built to cross-reference digital footprints.
 *   **Core Logic:** Geolocation tracking, data breach lookup, and anonymous password integrity checks.
 *   **Arch:** React/HTML frontend coupled with a multi-threaded Python serverless backend.
-<a href="https://investigator-sherlok.vercel.app">
----
+  --
 
 ### 📬 Connect with Me
 
