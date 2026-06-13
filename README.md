@@ -53,7 +53,7 @@ A premium, role-based campus recruitment portal and academic collaboration platf
 *   **ATS & Analytics:** Real-time applicant tracking pipeline and interactive recruitment funnel visualizations using Recharts.
    
 
-#### 📰 [News 24/7](https://daily-nuggets.vercel.app)
+#### 📰 [Daily Nuggets](https://daily-nuggets.vercel.app)
 A premium real-time news hub and AI-powered daily digest aggregator.
 *   **AI Briefings:** Automated briefings utilizing the Google Gemini Flash API with custom prompts and a localized NLP aggregator fallback.
 *   **Interactive UI:** Real-time global trending news ticker, interactive bookmarking, and local search history.
